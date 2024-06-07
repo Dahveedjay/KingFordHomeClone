@@ -1,0 +1,15 @@
+/* .Hover-menu:hover{
+  display: block;
+}
+
+.Properties:hover .Hover-menu{
+    display: block;
+} */
+
+.Properties:hover .Hover-menu{
+    background-color: red;
+    display: block;
+}
+.Hover-menu li:hover {
+transform: translateX(10px);
+}
